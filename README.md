@@ -6,3 +6,5 @@ This repository will include exercises from the subject "Data Typology" of the U
 # Exercises:
 
 1. Web scraping
+- this exercise will be carried out in pairs 
+
