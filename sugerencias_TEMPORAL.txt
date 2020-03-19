@@ -10,4 +10,8 @@
 Lo suyo sería que cambiaras un poco las descripciones y las adaptaras solo a esta práctica. De este modo se aisla del resto de desarrollos que tengas que hacer a lo largo del curso.
 
 
-2) Cambiar en el documento los tipos de variable a float. Realmente son enteros pero pueden contener NaN por lo que hay que almacenarlos como not a number
+2) Cambiar en el documento los tipos de variable a float. Realmente son enteros pero pueden contener NaN por lo que hay que almacenarlos como not a number.
+
+3) Añadir en la documentación las variables long y lat.
+
+4) Añadir a wiki las librerias necesarias para ejecutar el código
