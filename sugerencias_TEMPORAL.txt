@@ -15,3 +15,5 @@ Lo suyo sería que cambiaras un poco las descripciones y las adaptaras solo a es
 3) Añadir en la documentación las variables long y lat.
 
 4) Añadir a wiki las librerias necesarias para ejecutar el código
+
+5) Alberto como contribuidor del repositorio
