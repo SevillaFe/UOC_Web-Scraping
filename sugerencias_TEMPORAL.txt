@@ -5,15 +5,39 @@
 1) Según lo tienes planteado, el repositorio de GitHub va a incluir todas las tareas que así lo requieran que realices para la asignatura tipología de los datos. Esto te llevará a diferentes problemas:
 
 - Si en futuras prácticas no estuvieramos en el mismo grupo (aunque espero que no pase, ya que me está resultando muy fácil trabajar contigo) tendrías que compartir ese mismo repositorio con más personas. Por un lado yo tendría acceso a códigos de vuestro grupo y por otro lado todos los integrantes de ese otro grupo tendrían acceso a un código que hemos hecho tu y yo.
+
+
+
 - De cara a que un tercero utilice el código para su propio uso, no querrá utilizar cada el desarrollo de todas las prácticas. Se habrá interesado por una en concreto y de este modo le obligas a clonar todos los desarrollos con lo que eso implica: Tamaño del repositorio y que cada cambio que hagas en cualquier archivo a el le repercute.
 
 Lo suyo sería que cambiaras un poco las descripciones y las adaptaras solo a esta práctica. De este modo se aisla del resto de desarrollos que tengas que hacer a lo largo del curso.
 
 
+*******************
+He modificado el repositorio. Ahora solo está concebido para esta práctica.
+El procedimiento será crear un repositorio para cada práctica y así mantener la independencia entre ellas.
+*******************
+
 2) Cambiar en el documento los tipos de variable a float. Realmente son enteros pero pueden contener NaN por lo que hay que almacenarlos como not a number.
+
+*****************
+¡Buena idea!, no había sido en que pueden contener NaN. 
+*****************
 
 3) Añadir en la documentación las variables long y lat.
 
+*****************
+Añadidas y descritas como float
+*****************
+
 4) Añadir a wiki las librerias necesarias para ejecutar el código
 
+*****************
+Añadidas y descritas
+*****************
+
 5) Alberto como contribuidor del repositorio
+
+*****************
+¿Cómo te añado como contribuidor? ¿Lo has hecho tu ya?
+*****************
