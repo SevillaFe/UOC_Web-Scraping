@@ -6,7 +6,7 @@
 
 # # Libraries
 
-# In[2]:
+# In[1]:
 
 
 import pandas as pd # library for data analsysis
@@ -20,7 +20,7 @@ from geopy.extra.rate_limiter import RateLimiter
 
 # # Initialize configuration
 
-# In[3]:
+# In[2]:
 
 
 # Pandas 
@@ -35,7 +35,7 @@ dataset_filename = "covid-19_global_spread.csv"
 
 # # Functions
 
-# In[4]:
+# In[3]:
 
 
 def run_web_scraper(url):
@@ -65,7 +65,7 @@ def run_web_scraper(url):
     return data_pd
 
 
-# In[5]:
+# In[4]:
 
 
 def get_geocoordinates(data,column_name,lon_column_name, lat_column_name):
@@ -85,7 +85,7 @@ def get_geocoordinates(data,column_name,lon_column_name, lat_column_name):
     return data
 
 
-# In[6]:
+# In[5]:
 
 
 def data_preparation(data):
@@ -113,7 +113,7 @@ def data_preparation(data):
     return data
 
 
-# In[7]:
+# In[6]:
 
 
 def data_visualization(data):
@@ -140,7 +140,7 @@ def data_visualization(data):
 
 # # Main
 
-# In[8]:
+# In[7]:
 
 
 # Run web scraper
