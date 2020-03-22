@@ -11,3 +11,4 @@ The main aims of this exercise are:
 - Capture data from different data sources (such as social networks, web data or repositories) and through different mechanisms (such as queries, API and scraping).
 - Acting with the ethical and legal principles related to the handling of data depending on the scope.
 - Develop capacity to search, manage and use information and resources in the field of data science.
+ 
