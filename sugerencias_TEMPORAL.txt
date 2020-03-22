@@ -41,3 +41,7 @@ Añadidas y descritas
 *****************
 ¿Cómo te añado como contribuidor? ¿Lo has hecho tu ya?
 *****************
+
+6) añadir histograma al documento
+7) cambiar latitud y longitud por Lat y Lon en el doc
+8) Ya estoy como contribuidor, los primeros commit los hice desde el correo de empresa y por eso no aparecen esas contribuciones. Explicar al hacer la entrega por si el profesor checkea las contribuciones para comprobar que ambos integrantes han trabajado el código.
