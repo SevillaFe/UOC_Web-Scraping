@@ -58,7 +58,7 @@ def run_web_scraper(url):
 
     # Transform to pandas dataframe
     header = ['Country','Total cases','New cases','Total deaths','New deaths','Total recovered',
-              'Active cases','Critical cases','Cases/1M pop']
+              'Active cases','Critical cases','Cases/1M pop','Deaths/1M pop','First reported']
     data_pd = pd.DataFrame(data, columns=header)
     
     # Return
